@@ -1,6 +1,6 @@
 # StrangeBee Security Policies 
 
-At StrangeBee we take the security our software and services seriously, including following applications and projects: 
+At [StrangeBee](https://www.strangebee.com) we take the security our software and services seriously, including following applications and projects: 
 - TheHive (TheHive 5, and [previous open source version](https://github.com/TheHive-Project/TheHive))
 - [Cortex](https://github.com/TheHive-Project/Cortex)
 - [Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers)
@@ -16,7 +16,7 @@ Instead, please send security vulnerabilities by emailing the StrangeBee Securit
 security[@]strangebee.com
 ``` 
 
-In this email, please include as much as information that can help us better understand and resolve the issue:
+In this email, please include as much information as possible that can help us better understand and resolve the issue:
 - Application and version
 - Special configuration and usage required to reproduce the issue
 - Step-by-step instructions to reproduce the issue
