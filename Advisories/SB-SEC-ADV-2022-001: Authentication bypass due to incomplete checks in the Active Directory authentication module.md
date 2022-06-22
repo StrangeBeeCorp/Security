@@ -30,5 +30,5 @@ CVE creation is in progress.
 If you have any question or comment about this security notice:
 * Contact our support service if you are already a customer
 * As a community user, contact us on Discord (https://chat.thehive-project.org)
-* Send us an email at contact@strangebee.com if you require specific professional services.
+* Send us an email at [security@strangebee.com](mailto:security@strangebee.com) if you require specific professional services.
 
