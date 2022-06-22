@@ -1,0 +1,2 @@
+# Security
+StrangeBee Security repository
