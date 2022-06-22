@@ -25,3 +25,4 @@ In this email, please include as much as information that can help us better und
 
 This will be very useful and help us triage your report more quickly.
 
+More information regarding our Security policies and Advisories can be found here: [https://github.com/StrangeBeeCorp/security]().
