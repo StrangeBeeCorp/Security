@@ -20,14 +20,14 @@ This vulnerability affects TheHive from versions 3 to 5, and Cortex 3 as well. *
 * TheHive ≥ 5.0.8;
 * TheHive ≥ 4.1.21;
 * Cortex ≥ 3.1.5;
-* For remaining users of TheHive 3 (Already in EOL since December 31st, 2021), we exceptionally released TheHive 3.5.2 that fixes this vulnerability also on this version as well.
+* For remaining users of TheHive 3 (Already in EOL since December 31st, 2021), we exceptionally released TheHive 3.5.2 that fixes this vulnerability on this version as well.
 
 If you are unable to update affected products, disabling the Active Directory authentication module prevents the vulnerability exploitation. Be careful to have local accounts enabled before disabling the AD authentication module to prevent locking yourself out of the platform.
 
 CVE creation is in progress.
 
 ## Support
-If you have any question or comment about this security notice:
+If you have any question about this security notice:
 * Contact our support service if you are already a customer
 * Or send us an email at [security@strangebee.com](mailto:security@strangebee.com)
 
