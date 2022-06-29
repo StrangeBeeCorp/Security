@@ -1,7 +1,9 @@
 # SB-SEC-ADV-2022-001: Authentication bypass due to incomplete checks in the Active Directory authentication module
 
 **Date**: June 29, 2022
+
 **Version**: 1.1
+
 **Last update**: version of Cortex has been updated
 
 
