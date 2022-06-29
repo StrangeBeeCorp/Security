@@ -1,4 +1,10 @@
 # SB-SEC-ADV-2022-001: Authentication bypass due to incomplete checks in the Active Directory authentication module
+
+**Date**: June 29, 2022
+**Version**: 1.1
+**Last update**: version of Cortex has been updated
+
+
 Przemysław Mazurek reported a critical vulnerability in the Active Directory (AD) authentication module of TheHive.
 
 Exploiting the vulnerability is only possible if the configured AD is on premise. When exploited, this vulnerability allows impersonating any account on the platform, including administrators. After investigations, we confirmed the issue and fixed it.
