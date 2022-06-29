@@ -6,6 +6,7 @@
 
 **Last update**: version of Cortex has been updated
 
+---
 
 Przemysław Mazurek reported a critical vulnerability in the Active Directory (AD) authentication module of TheHive.
 
