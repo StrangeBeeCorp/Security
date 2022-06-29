@@ -13,7 +13,7 @@ If you believe you have found a security vulnerability in our applications and s
 Instead, please send security vulnerabilities by emailing the StrangeBee Security team: 
 
 ```
-security[@]strangebee.com
+security[@]strangebee[.]com
 ``` 
 
 In this email, please include as much information as possible that can help us better understand and resolve the issue:
@@ -25,4 +25,5 @@ In this email, please include as much information as possible that can help us b
 
 This will be very useful and help us triage your report more quickly.
 
-More information regarding our Security policies and Advisories can be found here: [https://github.com/StrangeBeeCorp/security]().
+
+Please review our [Responsible Vulnerability Disclosure policy](https://www.github.com/Security/Policies/Vulnerability%20Disclosure%20policy.md) for more information.
