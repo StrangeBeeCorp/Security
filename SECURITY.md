@@ -26,4 +26,4 @@ In this email, please include as much information as possible that can help us b
 This will be very useful and help us triage your report more quickly.
 
 
-Please review our [Responsible Vulnerability Disclosure policy](https://www.github.com/Security/Policies/Vulnerability%20Disclosure%20policy.md) for more information.
+Please review our [Responsible Vulnerability Disclosure policy](https://github.com/StrangeBeeCorp/Security/blob/main/Policies/Vulnerability%20Disclosure%20policy.md) for more information.
