@@ -1,7 +1,7 @@
 # StrangeBee Security Policies 
 
 At [StrangeBee](https://www.strangebee.com) we take the security our software and services seriously, including following applications and projects: 
-- TheHive (TheHive 5, and [previous open source version](https://github.com/TheHive-Project/TheHive))
+- TheHive version 5.1+
 - [Cortex](https://github.com/TheHive-Project/Cortex)
 - [Cortex-Analyzers](https://github.com/TheHive-Project/Cortex-Analyzers)
 
