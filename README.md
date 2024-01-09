@@ -16,6 +16,5 @@ This repository provides public security resources of StrangeBee, like security 
 * [SB-SEC-ADV-2023-005](./Security%20advisories/SB-SEC-ADV-2023-005.md): Username Enumeration
 
 ## Policies
-* [StrangeBee Responsible Vulnerability Disclosure policy](./Policies/Vulnerability%20Disclosure%20policy.md)
-* [SB-SEC-ADV-2022-002: Unauthentified API endpoint leaking data](./Security%20advisories/SB-SEC-ADV-2022-002.md)
 
+* [StrangeBee Responsible Vulnerability Disclosure policy](./Policies/Vulnerability%20Disclosure%20policy.md)
