@@ -1,10 +1,10 @@
 # SB-SEC-ADV-2022-001: Authentication bypass due to incomplete checks in the Active Directory authentication module
 
-**Date**: June 29, 2022
+**Date**: January 09, 2024
 
-**Version**: 1.1
+**Version**: 1.2
 
-**Last update**: version of Cortex has been updated
+**Last update**: CVE-ID added
 
 ---
 
@@ -33,7 +33,7 @@ This vulnerability affects TheHive from versions 3 to 5, and Cortex 3 as well. *
 
 If you are unable to update affected products, disabling the Active Directory authentication module prevents the vulnerability exploitation. Be careful to have local accounts enabled before disabling the AD authentication module to prevent locking yourself out of the platform.
 
-CVE creation is in progress.
+A CVE-ID has been assigned: [CVE-2023-39069](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-39069)
 
 ## Support
 If you have any question about this security notice:
