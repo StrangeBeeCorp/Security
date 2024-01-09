@@ -11,7 +11,7 @@ This repository provides public security resources of StrangeBee, like security 
 
 * [SB-SEC-ADV-2023-001](./Security%20advisories/SB-SEC-ADV-2023-001.md): Reporting – Stored Cross-Site Scripting
 * [SB-SEC-ADV-2023-002](./Security%20advisories/SB-SEC-ADV-2023-002.md): Attachment – Stored Cross-Site Scripting
-* [SB-SEC-ADV-2023-003](./Security%20advisories/SB-SEC-ADV-2023-002.md): Branding Logo – Reflected Cross-Site Scripting
+* [SB-SEC-ADV-2023-003](./Security%20advisories/SB-SEC-ADV-2023-003.md): Branding Logo – Reflected Cross-Site Scripting
 * [SB-SEC-ADV-2023-004](./Security%20advisories/SB-SEC-ADV-2023-004.md): MFA - Lack of Lockout Policy
 * [SB-SEC-ADV-2023-005](./Security%20advisories/SB-SEC-ADV-2023-005.md): Username Enumeration
 
