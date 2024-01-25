@@ -1,16 +1,14 @@
 # SB-SEC-ADV-2023-005: Username Enumeration Vulnerability in TheHive
  
-**Date**: 19 December, 2023
+**Date**: 25 January, 2024
 
-**Version**: 1.0
+**Version**: 1.1
 
 **Last update**: Initial advisory
 
 **Severity**: Low
 
 **Risks**: Information disclosure
-
-**CVE**: In progress
 
 ---
 
@@ -33,8 +31,6 @@ Affected Versions:
 We urge all users to promptly upgrade to the following versions that contain the necessary fixes for this vulnerability:
 * TheHive version 5.2.9 or higher
 * TheHive version 5.1.10 or higher
-
-The process for the CVE assignment is ongoing.
 
 ## Acknowledgments
 

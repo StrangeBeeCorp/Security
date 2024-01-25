@@ -1,8 +1,8 @@
 # SB-SEC-ADV-2023-001: Reporting – Stored Cross-Site Scripting
 
-**Date**: 19 December, 2023
+**Date**: 25 January, 2024
 
-**Version**: 1.0
+**Version**: 1.1
 
 **Last update**: Initial advisory
 
@@ -10,7 +10,7 @@
 
 **Risks**: Session hijacking / Privilege escalation
 
-**CVE**: In progress
+**CVE**: [CVE-2024-22877](https://nvd.nist.gov/vuln/detail/CVE-2024-22877)
 
 ---
 
@@ -30,8 +30,6 @@ Affected Versions:
 ## Recommended Action
 
 Immediate update to TheHive version 5.2.9 or higher is strongly advised to remediate this vulnerability.
-
-The process for the CVE assignment is ongoing.
 
 ## Acknowledgments
 

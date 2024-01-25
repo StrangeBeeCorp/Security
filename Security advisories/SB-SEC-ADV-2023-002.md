@@ -1,8 +1,8 @@
 # SB-SEC-ADV-2023-002: Stored Cross-Site Scripting in TheHive's Attachment Functionality
  
-**Date**: 19 December, 2023
+**Date**: 25 January, 2024
 
-**Version**: 1.0
+**Version**: 1.1
 
 **Last update**: Initial advisory
 
@@ -10,7 +10,7 @@
 
 **Risks**: Session Hijacking / Privilege Escalation
 
-**CVE**: In progress
+**CVE**: [CVE-2024-22876](https://nvd.nist.gov/vuln/detail/CVE-2024-22876)
 
 ---
 
@@ -33,8 +33,6 @@ Affected Versions:
 We urge all users to promptly upgrade to the following versions that contain the necessary fixes for this vulnerability:
 * TheHive version 5.2.9 or higher
 * TheHive version 5.1.10 or higher
-
-The process for the CVE assignment is ongoing.
 
 ## Acknowledgments
 
