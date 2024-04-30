@@ -15,6 +15,10 @@ This repository provides public security resources of StrangeBee, like security 
 * [SB-SEC-ADV-2023-004](./Security%20advisories/SB-SEC-ADV-2023-004.md): MFA - Lack of Lockout Policy
 * [SB-SEC-ADV-2023-005](./Security%20advisories/SB-SEC-ADV-2023-005.md): Username Enumeration
 
+### 2024
+
+* [SB-SEC-ADV-2024-001](./Security%20advisories/SB-SEC-ADV-2024-001.md): Username Enumeration
+
 ## Policies
 
 * [StrangeBee Responsible Vulnerability Disclosure policy](./Policies/Vulnerability%20Disclosure%20policy.md)
