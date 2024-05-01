@@ -1,6 +1,6 @@
 # SB-SEC-ADV-2024-001: Username Enumeration Vulnerability in TheHive
 
-**Date**: xx March, 2024
+**Date**: 30 April, 2024
 
 **Version**: 1.0
 
