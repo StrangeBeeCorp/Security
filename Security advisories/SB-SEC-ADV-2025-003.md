@@ -10,6 +10,10 @@
 
 **Risks**: Capacities exhaustion, loss of reputation of SMTP server
 
+| Base score  | Vector          |
+| :--------------- |:---------------|
+| 6.9  | [CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:L](https://www.first.org/cvss/calculator/4-0#CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:N/SA:L) |
+
 ---
 
 ## Executive summary

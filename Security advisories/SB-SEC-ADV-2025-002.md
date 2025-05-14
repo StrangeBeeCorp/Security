@@ -10,6 +10,10 @@
 
 **Risks**: Information disclosure
 
+| Base score  | Vector          |
+| :--------------- |:---------------|
+| 4.6  | [CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N](https://www.first.org/cvss/calculator/4-0#CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N) |
+
 ---
 
 ## Executive summary
@@ -18,7 +22,7 @@ A vulnerability allows an authenticated, privileged remote attacker to perform a
 
 ## Detailed description
 
-An authenticated attacker with admin permissions can access specific API endpoints and manipulate URLs to redirect requests to unintended hosts or ports. This allows the attacker to use TheHive server as a proxy to reach internal or otherwise restricted resources. The vulnerability could be exploited to access other servers on the internal network.
+An authenticated attacker with admin permissions allowing them to access specific API endpoints can manipulate URLs to direct requests to unexpected hosts or ports. This allows the attacker to use TheHive server as a proxy to reach internal or otherwise restricted resources. The vulnerability could be exploited to access other servers on the internal network.
 
 ## Impacted versions and resolution
 

@@ -10,6 +10,10 @@
 
 **Risks**: Privilege escalation, account compromise
 
+| Base score  | Vector          |
+| :--------------- |:---------------|
+| 5.9  | [CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:A/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N](https://www.first.org/cvss/calculator/4-0#CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:A/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N) |
+
 ---
 
 ## Executive summary
@@ -18,8 +22,7 @@ A vulnerability allows an unauthenticated remote attacker to perform a cross-sit
 
 ## Detailed description
 
-When basic authentication is enabled in TheHive, an attacker can trick a privileged user into visiting a malicious
-webpage, which silently triggers unauthorized actions on the user's behalf. For example, the attacker may forge requests to change an user’s password or escalate privileges.
+When basic authentication is enabled in TheHive, an attacker who lures a privileged user into visiting a malicious webpage can trigger requests on their victim’s behalf, without them noticing it. For example, the attacker may forge requests to change an account’s password or increase an account’s privileges.
 
 ## Impacted versions and resolution
 

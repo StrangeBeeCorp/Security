@@ -10,6 +10,10 @@
 
 **Risks**: Disclosure of case-related information
 
+| Base score  | Vector          |
+| :--------------- |:---------------|
+| 6.8  | [CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:A/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N](https://www.first.org/cvss/calculator/4-0#CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:A/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N) |
+
 ---
 
 ## Executive summary
@@ -18,7 +22,7 @@ A broken access control vulnerability was identified in one of TheHive’s API e
 
 ## Detailed description
 
-A remote, authenticated, and unprivileged user can exploit a specific endpoint to retrieve alerts, cases, logs, observables, or tasks by ID—bypassing standard access controls and retrieving data regardless of their assigned permissions.
+A remote, authenticated, and unprivileged user can exploit a specific endpoint to retrieve alerts, cases, logs, observables, or tasks, regardless of the user’s permissions.
 
 ## Impacted versions and resolution
 
