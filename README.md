@@ -19,6 +19,13 @@ This repository provides public security resources of StrangeBee, like security 
 
 * [SB-SEC-ADV-2024-001](./Security%20advisories/SB-SEC-ADV-2024-001.md): Username Enumeration
 
+### 2025
+
+* [SB-SEC-ADV-2025-001](./Security%20advisories/SB-SEC-ADV-2025-001.md): Cross-Site Request Forgery
+* [SB-SEC-ADV-2025-002](./Security%20advisories/SB-SEC-ADV-2025-002.md): Server-Side Request Forgery
+* [SB-SEC-ADV-2025-003](./Security%20advisories/SB-SEC-ADV-2025-003.md): Email Bombing Through Password Reset API Feature
+* [SB-SEC-ADV-2025-004](./Security%20advisories/SB-SEC-ADV-2025-004.md): Broken Access Control
+
 ## Policies
 
 * [StrangeBee Responsible Vulnerability Disclosure policy](./Policies/Vulnerability%20Disclosure%20policy.md)
