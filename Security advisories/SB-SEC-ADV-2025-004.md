@@ -4,9 +4,9 @@
 
 **Date**: May 14, 2025
 
-**Version**: 1.0
+**Version**: 1.1
 
-**Last update**: Initial advisory
+**Last update**: May 26, 2025
 
 **Severity**: Medium
 
