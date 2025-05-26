@@ -1,5 +1,7 @@
 # SB-SEC-ADV-2025-001: Cross-Site Request Forgery
 
+**CVE**: [CVE-2025-48740](https://nvd.nist.gov/vuln/detail/CVE-2025-48740)
+
 **Date**: May 14, 2025
 
 **Version**: 1.0
@@ -13,8 +15,6 @@
 | Base score  | Vector          |
 | :--------------- |:---------------|
 | 5.9  | [CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:A/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N](https://www.first.org/cvss/calculator/4-0#CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:A/VC:N/VI:H/VA:N/SC:N/SI:N/SA:N) |
-
-**CVE**: [CVE-2025-48740](https://nvd.nist.gov/vuln/detail/CVE-2025-48740)
 
 ---
 

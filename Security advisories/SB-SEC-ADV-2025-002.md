@@ -1,5 +1,7 @@
 # SB-SEC-ADV-2025-002: Server-Side Request Forgery
 
+**CVE**: [CVE-2025-48739](https://nvd.nist.gov/vuln/detail/CVE-2025-48739)
+
 **Date**: May 14, 2025
 
 **Version**: 1.0
@@ -13,8 +15,6 @@
 | Base score  | Vector          |
 | :--------------- |:---------------|
 | 4.6  | [CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N](https://www.first.org/cvss/calculator/4-0#CVSS:4.0/AV:N/AC:L/AT:N/PR:H/UI:A/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N) |
-
-**CVE**: [CVE-2025-48739](https://nvd.nist.gov/vuln/detail/CVE-2025-48739)
 
 ---
 
