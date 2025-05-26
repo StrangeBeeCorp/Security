@@ -28,4 +28,4 @@ This repository provides public security resources of StrangeBee, like security 
 
 ## Policies
 
-* [StrangeBee Responsible Vulnerability Disclosure policy](./Policies/Vulnerability%20Disclosure%20policy.md)
+* [StrangeBee Responsible Vulnerability Disclosure Policy](./Policies/Vulnerability%20Disclosure%20policy.md)
