@@ -6,7 +6,7 @@
 
 **Version**: 1.1
 
-**Last update**: May 26, 2025
+**Last update**: May 26, 2025 — Added CVE ID
 
 **Severity**: Medium
 
